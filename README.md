@@ -12,7 +12,8 @@ This is expense tracker created using React JS.
 - React Toastify
 
 # Api Info:
-- Api- http://localhost:5001/expenses
+- Api- - **Endpoint:** `http://localhost:5001/expenses`
+
 
 - I have used react toastify so that it gracefully shows error messages.
 - Validation checks are also being implemented here.
